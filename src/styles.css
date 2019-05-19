@@ -1,0 +1,29 @@
+.data-block {
+     border: 1px solid #ddd;
+     box-shadow: -1px -1px 3px #000;
+     background: #d7e7f8;
+}
+.data-block-name {
+    border-bottom: 1px solid #3d3d3d;
+    margin-top: -20px;
+    padding-top: 10px;
+    height: 40px;
+    text-align: center;
+    padding-bottom: 10px;
+}
+
+.data-block-data {
+    display: flex;
+    flex-wrap: wrap; 
+    flex-direction: row;
+    justify-content: space-between;
+    color: #7d7d7d;
+    width: 80%;
+    text-align: center;
+    margin: auto;
+}
+
+.data-block-date{
+    font-size: 10px;
+    text-align: center;
+}
