@@ -2,7 +2,7 @@
   "name": "stock-market",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://avalos010.github.io/stock-market-data/"
+  "homepage": "https://avalos010.github.io/stock-market-data/",
   "dependencies": {
     "react": "^16.8.6",
     "react-dom": "^16.8.6",
